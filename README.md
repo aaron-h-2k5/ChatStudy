@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Register Number: 212223040001
+## Name: H. AARON
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
